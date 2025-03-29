@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping/constants/size_config.dart';
+import 'package:cairoshopping/constants/size_config.dart';
 import 'package:flutter_svg/svg.dart';
 import 'dart:math' as math;
 import 'constant.dart';

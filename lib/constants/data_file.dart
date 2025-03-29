@@ -1,10 +1,10 @@
-import 'package:shopping/constants/color_data.dart';
-import 'package:shopping/models/model_banner.dart';
-import 'package:shopping/models/model_cart.dart';
-import 'package:shopping/models/model_category.dart';
-import 'package:shopping/models/model_intro.dart';
-import 'package:shopping/models/model_my_order.dart';
-import 'package:shopping/models/model_trending.dart';
+import 'package:cairoshopping/constants/color_data.dart';
+import 'package:cairoshopping/models/model_banner.dart';
+import 'package:cairoshopping/models/model_cart.dart';
+import 'package:cairoshopping/models/model_category.dart';
+import 'package:cairoshopping/models/model_intro.dart';
+import 'package:cairoshopping/models/model_my_order.dart';
+import 'package:cairoshopping/models/model_trending.dart';
 
 import '../models/address_model.dart';
 import '../models/model_category_items.dart';
