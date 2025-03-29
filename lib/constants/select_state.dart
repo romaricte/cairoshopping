@@ -6,9 +6,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 
 import 'package:country_state_city_picker/model/select_status_model.dart' as status;
-import 'package:shopping/constants/constant.dart';
-import 'package:shopping/constants/widget_utils.dart';
-import 'package:shopping/constants/color_data.dart';
+import 'package:cairoshopping/constants/constant.dart';
+import 'package:cairoshopping/constants/widget_utils.dart';
+import 'package:cairoshopping/constants/color_data.dart';
 
 class SelectState extends StatefulWidget {
   final ValueChanged<String> onCountryChanged;

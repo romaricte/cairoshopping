@@ -1,8 +1,8 @@
 // ignore: file_names
 import 'package:dotted_line/dotted_line.dart';
 import 'package:flutter/material.dart';
-import 'package:shopping/constants/constant.dart';
-import 'package:shopping/constants/widget_utils.dart';
+import 'package:cairoshopping/constants/constant.dart';
+import 'package:cairoshopping/constants/widget_utils.dart';
 
 
 import '../models/model_review_slider.dart';
